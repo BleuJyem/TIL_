@@ -1,2 +1,2 @@
 # TIL_
-Things I learned everyday
+Things I learn everyday
